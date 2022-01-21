@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "registry.hub.docker.com/library/strm/helloworld-http"
+    "Name": "registry.hub.docker.com/strm/helloworld-http"
   },
   "Ports": [
     {
