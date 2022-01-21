@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "registry.hub.docker.com/library/tutum/hello-world"
+    "Name": "registry.hub.docker.com/library/boxboat/hello-world-webapp"
   },
   "Ports": [
     {
