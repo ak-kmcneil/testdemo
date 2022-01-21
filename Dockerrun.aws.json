@@ -1,11 +1,11 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "registry.hub.docker.com/library/boxboat/hello-world-webapp"
+    "Name": "registry.hub.docker.com/library/strm/helloworld-http"
   },
   "Ports": [
     {
-      "ContainerPort": 8000
+      "ContainerPort": 80
     }
   ]
 }
